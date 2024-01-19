@@ -1,6 +1,6 @@
 - 👋 Hi~ I am Dylan Yuan(pulished under Quan Yuan, 袁权), 2nd PhD student at Xidian University, China.
 
-- 🔭 I am currently work on Quality Assessment, Aesthetic Assessment, and related downstream tasks😄.
+- 🔭 I am currently work on computational aesthetics, and related downstream tasks😄.
 
 <!--
 **dylanqyuan/dylanqyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
