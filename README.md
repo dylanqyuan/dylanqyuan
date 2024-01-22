@@ -1,4 +1,4 @@
-- 👋 Hi~ I am Dylan Yuan(pulished under Quan Yuan, 袁权), 2nd PhD student at Xidian University, China.
+- 👋 Hi~ I am Dylan Yuan(pulished under Quan Yuan, 袁权), 2nd PhD student at Xidian University.
 
 - 🔭 I am currently work on computational aesthetics, and related downstream tasks😄.
 
