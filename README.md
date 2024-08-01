@@ -1,7 +1,7 @@
 - 👋 Hi~ I am Dylan Yuan (pulished under Quan Yuan, 袁权), PhD Candidate at Xidian University.
 
 - 🔭 I am currently work on computational aesthetics, and related downstream tasks😄.
-
+- 📫 Feel free to contact me through: dylan.yuanquan@outlook.com💬
 <!--
 **dylanqyuan/dylanqyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
